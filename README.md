@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Mofokeng-K/Mofokeng-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring financial systems engineer integrating quantitative modelling, financial engineering, scalable software, and accounting frameworks.
 
-Here are some ideas to get you started:
+🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ython, C++, SQL, Excel, Power BI, Tableau, Pandas, NumPy, Matplotlib, Backtrader, MetaTrader, Git, JIRA
+🚀 Projects
+
+    B-BBEE Scorecard System – Collects raw data across business units, calculates scores automatically, and manages sampling documents.
+
+    Financial Dashboard – Connected to ERP, shows daily/monthly TB and PBIT performance summaries.
+
+    Forex Trading Bot – Trend-following system with dynamic hedging, volatility-scaled exits, and backtested C++ models.
+
+📫 Contact Me
+      www.linkedin.com/in/katiso-m-7a3b95188
+
+
